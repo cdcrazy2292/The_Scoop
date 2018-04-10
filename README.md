@@ -1,3 +1,11 @@
+#Project Completed
+Please run npm install to download all te libraries. I an using lodash for some collections manipulation.
+ 
+node server.js starts up the project. However localhost:4000 does not show anything. My code did not affect that It's 
+been like that since the moment the starter project was downloaded. 
+
+Criss Soria
+
 # The Scoop
 
 ## Project Overview
